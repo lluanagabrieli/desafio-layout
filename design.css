@@ -1,0 +1,78 @@
+.bg-black{
+    background-color: #323232;
+}
+
+.bg-pink-light{
+    background-color: #DFB6BE;
+}
+
+.bg-purple{
+    background-color: #59427A;
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.btn-desafio{
+    background-color: #59427A;
+}
+
+.btn-desafio:hover{
+    background-color: #323232;
+}
+
+.font-size-12px{
+    font-size: 12px !important;
+    font-size: 0.75rem !important;
+}
+
+.font-size-14px{
+    font-size: 14px !important;
+    font-size: 0.875rem !important;
+}
+
+.font-size-18px{
+    font-size: 18px !important;
+    font-size: 1.125rem !important;
+}
+
+.font-size-20px{
+    font-size: 20px !important;
+    font-size: 1.25rem !important;
+}
+
+.font-size-24px{
+    font-size: 24px !important;
+    font-size: 1.5rem !important;
+}
+
+.font-size-28px{
+    font-size: 28px !important;
+    font-size: 1.75rem !important;
+}
+
+.font-size-32px{
+    font-size: 32px !important;
+    font-size: 2rem !important;
+}
+
+.text-black{
+    color: #323232;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.text-pink-light{
+    color: #DFB6BE;
+}
+
+.text-pink{
+    color: #BF69B1;
+}
+
+.text-purple{
+    color: #59427A;
+}
